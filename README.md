@@ -40,7 +40,6 @@ To run this project, you need to have Docker installed on your machine.
     ```
 3.  **Access the API**:
     Once the containers are up and running, you can access the API at `http://localhost:8080`.
-    * **Swagger UI**: `http://localhost:8080/swagger`
     * **Health Check**: `http://localhost:8080/api/health`
 
 ---
